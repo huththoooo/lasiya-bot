@@ -22,6 +22,9 @@
     "node-fetch": "^2.6.1",
     "megajs": "^1.1.0",
     "vm": "^0.1.0",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^0.27.2", // Axios library for HTTP requests
+    "@sl-code-lords/esana-news": "^1.0.0", // Esana news module (assuming it's on npm)
+    "hirunews-scrap": "^1.0.0" // Hiru news module (assuming it's on npm)
   }
 }
